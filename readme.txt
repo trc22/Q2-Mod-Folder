@@ -56,3 +56,9 @@ UI change:
 Particle effect change:
 -Blaser and rocket launcher have blue effects
 -Burning players spawn particle effects per tic
+
+
+Install:
+
+-Take the quake2.exe out of this folder and place it into the Quake 2 directory
+-Make a shortcut for and in the target section, add +set game ICE_BOYS
